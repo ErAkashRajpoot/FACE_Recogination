@@ -36,9 +36,6 @@ The step-by-step pipeline is as follows:
 
 7. The final step is to pass the processed faces to the face recognition object for recognition. 
 
-![alt text](https://github.com/GeorgeSeif/Face-Recognition/blob/master/motivation.png)
-![alt text](https://github.com/GeorgeSeif/Face-Recognition/blob/master/design.png)
-![alt text](https://github.com/GeorgeSeif/Face-Recognition/blob/master/results.png)
 
 
 
